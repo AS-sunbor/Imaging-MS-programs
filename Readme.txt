@@ -26,5 +26,4 @@ Please change path in the file "tab_sort_files.py" in the "MS imaging" folder  d
 
 Please store images of DIC, GFP, scan in the imaging MS, and imzML data in each folder. 
 
-
-
+If you encountered any errors in the Git version, please try an alternative download at https://zenodo.org/records/7297174.
